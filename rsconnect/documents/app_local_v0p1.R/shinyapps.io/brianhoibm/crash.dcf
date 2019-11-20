@@ -1,0 +1,12 @@
+name: crash
+title: crash
+username:
+account: brianhoibm
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 501576
+bundleId: 1630704
+url: https://brianhoibm.shinyapps.io/crash/
+when: 1539049244.33904
+asMultiple: FALSE
+asStatic: FALSE
