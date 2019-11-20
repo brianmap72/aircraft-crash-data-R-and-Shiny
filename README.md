@@ -1,6 +1,6 @@
 # aircraft-crash-data-R-and-Shiny
 
-## The dashboard is live in shinyapps.io and the url is https://brianhoibm.shinyapps.io/crash/
+### The dashboard is live in shinyapps.io and the url is https://brianhoibm.shinyapps.io/crash/ (please use chrome on desktop)
 
 Take note two tabs of the dashboard board are not working due to some conflicts and it is left as it is. The two tabs are supposed to show the insights as show below, user can launch the app locally to view the fully functional dashboard.
 
