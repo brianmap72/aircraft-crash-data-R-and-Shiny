@@ -15,9 +15,9 @@ To view the dashboard locally, please select "open in browser" as plotly package
 >> 1. The country/city of crash 1908 data is matched to the external datasets by using fuzzy matching - Levenshtein distance distance matching
 
 
-![Optional Text](../master/myFolder/image.png)
+![crashreason1](crashreason1.jpg)
 
-![Optional Text](../master/myFolder/image.png)
+![crashreason2](crashreason2.jpg)
 
-![Optional Text](../master/myFolder/image.png)
+![topicmodeling](topicmodeling.jpg)
 
